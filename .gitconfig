@@ -1,11 +1,7 @@
 [core]
-    excludesfile = ~/.gitignore_global
     autocrlf = false
 [fetch]
     prune = true
-[user]
-    name = aimerfan
-    email = jvuchein@gmail.com
 [alias]
     co = checkout
     br = branch
